@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "nombre": "Taiel",
+            "apellido": "Martinez",
+            "Apodo": "Facundo",
+            "foto": "facu.png",
+            "roles": [
+                "Tecnico de la radio",
+                "Operador de radio",
+                "Operador de video",
+                "Tecnico de redes"
+            ]
+        },
+        {
+            "nombre": "Ulices",
+            "apellido": "Biolato",
+            "Apodo": "Uli",
+            "foto": "uli.png",
+            "roles": [
+                "Encargo de programacion",
+                "Operador de radio",
+                "Productor de radio",
+                "Comunicador social"
+            ]
+        }
+    ]
+}
