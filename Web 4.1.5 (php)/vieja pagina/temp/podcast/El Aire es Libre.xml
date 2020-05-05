@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+  <channel>
+    <title>El Aire es Libre</title>
+    <description>El Aire Es Libre es un podcast dedicado a entrevistar personas vinculadas a la cultura y el arte. Este espacio se pregunta el porqu&#xE9; y el c&#xF3;mo de cada historia.</description>
+    <link>https://radiolamadriguera.com/</link>
+    <image>
+      <url>https://radiolamadriguera.com/img/podcast/El Aire es Libre</url>
+      <title>El Aire es Libre</title>
+      <link>https://radiolamadriguera.com/</link>
+    </image>
+    <generator>Radio la madriguera</generator>
+    <lastBuildDate>Mon, 03 Feb 2020 00:13:22 +0100</lastBuildDate>
+    <atom:link href="https://radiolamadriguera.com/podcast/El Aire es Libre.xml" rel="self" type="application/rss+xml"/>
+    <author>Radio La Madriguera</author>
+    <copyright>Radio La Madriguera</copyright>
+    <language>es-ar</language>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <itunes:author>Radio La Madriguera</itunes:author>
+    <itunes:summary>El Aire Es Libre es un podcast dedicado a entrevistar personas vinculadas a la cultura y el arte. Este espacio se pregunta el porqu&#xE9; y el c&#xF3;mo de cada historia.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Radio La Madriguera</itunes:name>
+      <itunes:email>radiolamadriguera@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:category text="Music &amp; Technology"/>
+    <itunes:image href="https://radiolamadriguera.com/img/podcast/El Aire es Libre"/>
+  </channel>
+</rss>

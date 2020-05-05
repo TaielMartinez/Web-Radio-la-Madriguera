@@ -1,0 +1,27 @@
+.navbar_navegacion {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: black solid 2px;
+    z-index: 99;
+}
+
+.navbar_mini_reproductor {
+    margin-bottom: 55px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 99;
+}
+
+.navbar_texto{
+    width: 90%;
+}
+
+.navbar_texto_episodio{
+    width: 49%;
+}
+
+.navbar_texto_programa{
+    width: 49%;
+}

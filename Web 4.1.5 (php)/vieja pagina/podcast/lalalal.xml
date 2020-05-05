@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<channel>
+  <title>lalalal</title>
+  <description>uhdsajodncsrtoiudbnfj</description>
+  <link>https://radiolamadriguera.com/</link>
+  <image>
+    <url>https://radiolamadriguera.com/img/podcast/lalalal</url>
+    <title>lalalal</title>
+    <link>https://radiolamadriguera.com/</link>
+  </image>
+  <generator>Radio la madriguera</generator>
+  <lastBuildDate>Fri, 31 Jan 2020 22:10:37 +0100</lastBuildDate>
+  <atom:link href="https://radiolamadriguera.com/podcast/lalalal.xml" rel="self" type="application/rss+xml"/>
+  <author>Radio La Madriguera</author>
+  <copyright>Radio La Madriguera</copyright>
+  <language>es-ar</language>
+  <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <itunes:author>Radio La Madriguera</itunes:author>
+  <itunes:summary>uhdsajodncsrtoiudbnfj</itunes:summary>
+  <itunes:type>episodic</itunes:type>
+  <itunes:owner>
+    <itunes:name>Radio La Madriguera</itunes:name>
+    <itunes:email>radiolamadriguera@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:category text="Music &amp; Technology"/>
+  <itunes:image href="https://radiolamadriguera.com/img/podcast/lalalal"/>
+</channel>

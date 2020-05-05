@@ -1,0 +1,7 @@
+.celu-navbar {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: black solid 2px;
+}

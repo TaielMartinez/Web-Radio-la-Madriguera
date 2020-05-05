@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title>"<![CDATA[Programa de radio]]>"</title>
+		<description><![CDATA[Programa radial desde una perspectiva millennial centennial, donde lo bizarro y lo literal se unen en el eter.]]></description>
+		<link>https://anchor.fm/a-4-manos</link>
+		<image>
+			<url>https://image.prntscr.com/image/MDk8YKZpQwy2pMGB1MI3Jw.png</url>
+			<title>Programa de radio</title>
+			<link>https://radiolamadriguera.com/</link>
+		</image>
+		<generator>Radio la madriguera</generator>
+		<lastBuildDate>Fri, 24 Jan 2020 19:46:29 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/9d6811c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Radio La Madriguera]]></author>
+		<copyright><![CDATA[Radio La Madriguera]]></copyright>
+		<language><![CDATA[es-ar]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Radio La Madriguera</itunes:author>
+		<itunes:summary>Programa radial desde una perspectiva millennial centennial, donde lo bizarro y lo literal se unen en el eter.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Radio La Madriguera</itunes:name>
+			<itunes:email>radiolamadriguera@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Music &amp; Technology"/>
+		<itunes:image href="https://image.prntscr.com/image/MDk8YKZpQwy2pMGB1MI3Jw.png"/>
+		<item>
+			<title><![CDATA[Programa de Radio - EPISODIO 1]]></title>
+			<description><![CDATA[<p>a</p>
+]]></description>
+			<link>https://radiolamadriguera.com/</link>
+			<guid isPermaLink="false">86fe1013-614a-4588-a524-9ad4e4601033</guid>
+			<dc:creator><![CDATA[Radio La Madriguera]]></dc:creator>
+			<pubDate>Mon, 20 Jan 2020 15:46:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/9d6811c/podcast/play/9817558/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-20%2F44288044-44100-2-c9dd3f319c911.mp3" length="131172417" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;a&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3293</itunes:duration>
+			<itunes:image href="https://image.prntscr.com/image/MDk8YKZpQwy2pMGB1MI3Jw.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Programa de Radio - EPISODIO 2]]></title>
+			<description><![CDATA[<p>a</p>
+]]></description>
+			<link>https://radiolamadriguera.com/</link>
+			<guid isPermaLink="false">dd4ab53a-dfe2-4f62-b472-719ef49f8184</guid>
+			<dc:creator><![CDATA[Radio La Madriguera]]></dc:creator>
+			<pubDate>Mon, 20 Jan 2020 15:46:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/9d6811c/podcast/play/9958432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-26%2F45227714-44100-2-0d0832964073c.mp3" length="131172417" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;a&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3293</itunes:duration>
+			<itunes:image href="https://image.prntscr.com/image/MDk8YKZpQwy2pMGB1MI3Jw.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

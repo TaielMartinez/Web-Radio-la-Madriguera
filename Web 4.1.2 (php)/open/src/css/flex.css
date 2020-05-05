@@ -1,0 +1,10 @@
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.flex-nowrap  { 
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+}

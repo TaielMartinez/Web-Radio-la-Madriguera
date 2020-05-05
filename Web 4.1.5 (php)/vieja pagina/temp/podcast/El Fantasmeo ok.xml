@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns" version="2.0">
+	<channel>
+		<title>"<![CDATA[El Fantasmeo]]>"</title>
+		<description><![CDATA[Programa radial que ahonda en sucesos paranormales. ¡Noticias, curiosidades, actualidad, música y mucho más!]]></description>
+		<link>https://anchor.fm/a-4-manos</link>
+		<image>
+			<url>https://image.prntscr.com/image/MDk8YKZpQwy2pMGB1MI3Jw.png</url>
+			<title>El Fantasmeo</title>
+			<link>https://radiolamadriguera.com/</link>
+		</image>
+		<generator>Radio la madriguera</generator>
+		<lastBuildDate>Fri, 24 Jan 2020 19:46:29 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/9d6811c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Radio La Madriguera]]></author>
+		<copyright><![CDATA[Radio La Madriguera]]></copyright>
+		<language><![CDATA[es-ar]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Radio La Madriguera</itunes:author>
+		<itunes:summary>Programa radial que ahonda en sucesos paranormales. ¡Noticias, curiosidades, actualidad, música y mucho más!</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Radio La Madriguera</itunes:name>
+			<itunes:email>radiolamadriguera@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Music &amp; Technology"/>
+		<itunes:image href="https://image.prntscr.com/image/-z9Y3x3kTqyXXgK6R89zwQ.png"/>
+		<item>
+			<title><![CDATA[El Fantasmeo - EPISODIO 1]]></title>
+			<description><![CDATA[<p>a</p>
+]]></description>
+			<link>https://radiolamadriguera.com/</link>
+			<guid isPermaLink="false">ff8ac0b6-0ce5-4ac6-9521-7c8e78128635</guid>
+			<dc:creator><![CDATA[Radio La Madriguera]]></dc:creator>
+			<pubDate>Mon, 20 Jan 2020 15:46:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/9d6811c/podcast/play/9818141/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-20%2F44294665-44100-2-7f88d185c956c.mp3" length="131742932" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;a&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3293</itunes:duration>
+			<itunes:image href="https://image.prntscr.com/image/-z9Y3x3kTqyXXgK6R89zwQ.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	<item><title>asd</title><description/><link>https://radiolamadriguera.com/</link><guid/><creator>Radio La Madriguera</creator><pubDate/><enclosure url="" length="" type=""/><summary>&lt;p&gt;a&lt;/p&gt;</summary><explicit>No</explicit><duration/><image/><episodeType>full</episodeType></item><item><title>asd</title><description/><link>https://radiolamadriguera.com/</link><guid>ff8ac0b6-0ce5-4ac6-9521-7c8e78128635</guid><creator>Radio La Madriguera</creator><pubDate>Mon, 20 Jan 2020 15:46:12 GMT</pubDate><enclosure url="https://anchor.fm/s/9d6811c/podcast/play/9818141/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-20%2F44294665-44100-2-7f88d185c956c.mp3" length="131742932" type="audio/mpeg"/><summary>&lt;p&gt;a&lt;/p&gt;</summary><explicit>No</explicit><duration/><image/><episodeType>full</episodeType></item></channel>
+</rss>

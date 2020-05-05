@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns" version="2.0">
+  <channel>
+    <title>A 4 Manos</title>
+    <description>Programa operado a la vieja usansa.</description>
+    <link>https://radiolamadriguera.com/</link>
+    <image>
+      <url>https://radiolamadriguera.com/img/podcast/A 4 Manos</url>
+      <title>A 4 Manos</title>
+      <link>https://radiolamadriguera.com/</link>
+    </image>
+    <generator>Radio la madriguera</generator>
+    <lastBuildDate>Fri, 31 Jan 2020 22:35:11 +0100</lastBuildDate>
+    <atom:link href="https://radiolamadriguera.com/podcast/A 4 Manos.xml" rel="self" type="application/rss+xml"/>
+    <author>Radio La Madriguera</author>
+    <copyright>Radio La Madriguera</copyright>
+    <language>es-ar</language>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <itunes:author>Radio La Madriguera</itunes:author>
+    <itunes:summary>Programa operado a la vieja usansa.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Radio La Madriguera</itunes:name>
+      <itunes:email>radiolamadriguera@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:category text="Music &amp; Technology"/>
+    <itunes:image href="https://radiolamadriguera.com/img/podcast/A 4 Manos"/>
+  <item><title>123</title><description/><link>https://radiolamadriguera.com/</link><guid>60c597a5-18fc-4c13-87e0-6823b7b17a42</guid><creator>Radio La Madriguera</creator><pubDate>Sat, 25 Jan 2020 14:00:00 GMT</pubDate><enclosure url="https://anchor.fm/s/9d6811c/podcast/play/10006447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-28%2F45508795-44100-2-ba27f175e4733.mp3" length="102508985" type="audio/mpeg"/><summary>&lt;p&gt;a&lt;/p&gt;</summary><explicit>No</explicit><duration/><image/><episodeType>full</episodeType></item></channel>
+</rss>

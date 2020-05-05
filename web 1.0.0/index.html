@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>La Madriguera Radio</title>
+    <link rel="stylesheet" href="./iconos.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+    
+
+
+    
+    <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+        <a class="navbar-brand" href="#inicio">
+            <img src="./img/logo.jpg" width="40" height="30" class="d-inline-block align-top mr-3" alt="">
+            MADRIGUERA
+        </a>
+        <div class="collapse navbar-collapse position-relative" id="navbarText">
+            <ul class="navbar-nav mr-auto">
+            <li class="nav-item active card mr-1 bg-warning">
+                <a class="nav-link" href="#vivo">Escuchar en Vivo <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item card mr-1">
+                <a class="nav-link" href="#programas">Programas</a>
+            </li>
+            <li class="nav-item card mr-1">
+                <a class="nav-link" href="#">Realizar radio!</a>
+            </li>
+            </ul>
+            <span class="navbar-text">
+            No se vende fafafa
+            </span>
+        </div>
+    </nav>
+
+
+
+
+
+
+    <div class="container" id="inicio">
+        <div id="carouselExampleIndicators" class="carousel slide " data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="./img/portada (1).jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="./img/portada (2).jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="./img/portada (3).jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="./img/portada (4).jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="./img/portada (5).jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="./img/portada (6).jpeg" class="d-block w-100" alt="...">
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev"></a>
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Siguiente</span>
+            </a>
+        </div>
+        
+        <div class="espacio"  id="vivo"></div>
+        
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">
+                <h3>EN VIVO</h3> 
+            </a>
+            <div style="overflow: hidden; margin: 15px auto; max-width: 736px;" class="rounded">
+                    <iframe id="player_pc" width="60%" height="380"style="border: 0; margin-left: -100px; height: 300px; margin-top: -200px; width: 926px; margin-bottom: -30px" src="https://www.reproface.com.ar/html5/player.php?id=8412529"></iframe>
+            </div>
+        </nav>
+        
+
+
+
+
+
+        <div class="container" id="programas">
+            <div class="row">
+                <div class="col-4">
+                    <div class="card card-cascade programas">
+
+                        <!-- Card image -->
+                        <div class="view view-cascade overlay" >
+                            <img class="card-img-top" src="./img/programa (2).jpg" alt="Lo demás es silencio">
+                            <a>
+                            <div class="mask rgba-white-slight"></div>
+                            </a>
+                        </div>
+                        
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+                        
+                            <!-- Title -->
+                            <h4 class="card-title"><strong>Lo demás es silencio</strong></h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">Derecho informático y mucho más</h6>
+                            <!-- Text -->
+                            <p class="card-text"> Un programa sobre el derecho y lo importante que es. Con la conduccion de Rodrigo Iglesias.
+                            </p>
+                        
+                            <!-- Facebook -->
+                            <a type="button" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Google + -->
+                            <a type="button" class="btn-floating btn-small btn-dribbble"><i class="fab fa-dribbble"></i></a>
+                        
+                        </div>
+                        
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            Martes y Viernes a las 17:00hs
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="card card-cascade programas">
+
+                        <!-- Card image -->
+                        <div class="view view-cascade overlay" >
+                            <img class="card-img-top" src="./img/programa (4).jpg" alt="Lo demás es silencio">
+                            <a>
+                            <div class="mask rgba-white-slight"></div>
+                            </a>
+                        </div>
+                        
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+                        
+                            <!-- Title -->
+                            <h4 class="card-title"><strong>Tenemos que hablar</strong></h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">#elfreakdelabic</h6>
+                            <!-- Text -->
+                            <p class="card-text"> El programa de radio del colectivo #elfreakdelabic
+
+
+                                    Revolucionando el arte popular a través de la lapicera....
+                                    
+                                    
+                                    Música, entrevista, agenda, dibujos en vivo y mucho más...
+                            </p>
+                        
+                            <!-- Facebook -->
+                            <a type="button" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Google + -->
+                            <a type="button" class="btn-floating btn-small btn-dribbble"><i class="fab fa-dribbble"></i></a>
+                        
+                        </div>
+                        
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                                Todos los miércoles de 21hs a 23hs.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="card card-cascade programas">
+
+                        <!-- Card image -->
+                        <div class="view view-cascade overlay" >
+                            <img class="card-img-top" src="./img/programa (1).jpg" alt="Lo demás es silencio">
+                            <a>
+                            <div class="mask rgba-white-slight"></div>
+                            </a>
+                        </div>
+                        
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+                        
+                            <!-- Title -->
+                            <h4 class="card-title"><strong>Los delirios del mariscal</strong></h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">Opinión deportiva y lo mejor del rock argentino</h6>
+                            <!-- Text -->
+                            <p class="card-text"> La mejor opinión del acontecer deportivo y todo el rock argentino, en un espacio sin condicionamientos, donde todas las voces tienen su lugar para enaltecer los valores fundamentales del deporte acompañados de mucha música.
+
+                                    deliriosdelmariscal@gmail.com
+                            </p>
+                        
+                            <!-- Facebook -->
+                            <a type="button" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Google + -->
+                            <a type="button" class="btn-floating btn-small btn-dribbble"><i class="fab fa-dribbble"></i></a>
+                        
+                        </div>
+                        
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            Lunes a las 19:00hs y Martes a las 15:00hs
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+
+
+
+            <!-- ---------------------------------------------------------------------------- -->
+
+
+
+            <div class="row">
+                    <div class="col-4">
+                        <div class="card card-cascade programas">
+    
+                            <!-- Card image -->
+                            <div class="view view-cascade overlay" >
+                                <img class="card-img-top" src="./img/programa (5).png" alt="Lo demás es silencio">
+                                <a>
+                                <div class="mask rgba-white-slight"></div>
+                                </a>
+                            </div>
+                            
+                            <!-- Card content -->
+                            <div class="card-body card-body-cascade text-center">
+                            
+                                <!-- Title -->
+                                <h4 class="card-title"><strong>Radio fafafa</strong></h4>
+                                <!-- Subtitle -->
+                                <h6 class="font-weight-bold indigo-text py-2">Porque las cosas estan muy caras</h6>
+                                <!-- Text -->
+                                <p class="card-text"> Una radio, un estudio... y ademas, un cultivo de droga. Porque si somos gipis, somos jipys con ganas!!!
+                                </p>
+                            
+                                <!-- Facebook -->
+                                <a type="button" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                                <!-- Twitter -->
+                                <a type="button" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                                <!-- Google + -->
+                                <a type="button" class="btn-floating btn-small btn-dribbble"><i class="fab fa-dribbble"></i></a>
+                            
+                            </div>
+                            
+                            <!-- Card footer -->
+                            <div class="card-footer text-muted text-center">
+                                De Lunes a Viernes de 03:00hs a 05:00hs
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="card card-cascade programas">
+    
+                            <!-- Card image -->
+                            <div class="view view-cascade overlay" >
+                                <img class="card-img-top" src="./img/programa (6).png" alt="Lo demás es silencio">
+                                <a>
+                                <div class="mask rgba-white-slight"></div>
+                                </a>
+                            </div>
+                            
+                            <!-- Card content -->
+                            <div class="card-body card-body-cascade text-center">
+                            
+                                <!-- Title -->
+                                <h4 class="card-title"><strong>Radio de mierda</strong></h4>
+                                <!-- Subtitle -->
+                                <h6 class="font-weight-bold indigo-text py-2">Con cachete derecho y cachete izquierdo</h6>
+                                <!-- Text -->
+                                <p class="card-text"> Porque la radio es una mierda, porque los operadores no saben operar y porque el oyente no sabe escuchar. Por todo eso y porque me sale del forro, llego Radio de Mierda, un programa producido para el ojete, conducido como la pija y operador como el orto. 5 horas de un boludo hablando sin cortina y vos te la fumas porque no tenes nada que hacer con tu vida y no tenes amigos.
+                                </p>
+                            
+                                <!-- Facebook -->
+                                <a type="button" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                                <!-- Twitter -->
+                                <a type="button" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                                <!-- Google + -->
+                                <a type="button" class="btn-floating btn-small btn-dribbble"><i class="fab fa-dribbble"></i></a>
+                            
+                            </div>
+                            
+                            <!-- Card footer -->
+                            <div class="card-footer text-muted text-center">
+                                    Todos los dias, desde las 4am hasta la hora que se me cante
+                            </div>
+                        </div>
+                    </div>
+                <div class="col-4">
+                        <div class="card card-cascade programas">
+    
+                            <!-- Card image -->
+                            <div class="view view-cascade overlay" >
+                                <img class="card-img-top" src="./img/programa (7).png" alt="Lo demás es silencio">
+                                <a>
+                                <div class="mask rgba-white-slight"></div>
+                                </a>
+                            </div>
+                            
+                            <!-- Card content -->
+                            <div class="card-body card-body-cascade text-center">
+                            
+                                <!-- Title -->
+                                <h4 class="card-title"><strong>No es lo que parece</strong></h4>
+                                <!-- Subtitle -->
+                                <h6 class="font-weight-bold indigo-text py-2">Si, parecen pelotudos!</h6>
+                                <!-- Text -->
+                                <p class="card-text"> Somos pelotudos, hacemos las cosas mal y aun asi pusimos una radio!
+                                    Veni a divertirte con 3 boludos que no saben hablar, pero tempoco saben hacer radio. No se porque escucharias este programa. Mejor cerra esta pagina y hace algo productivo con tu vida. Y no, no pieces en salir con tus amigos porque sabemos que no tenes.
+                                </p>
+                            
+                                <!-- Facebook -->
+                                <a type="button" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                                <!-- Twitter -->
+                                <a type="button" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                                <!-- Google + -->
+                                <a type="button" class="btn-floating btn-small btn-dribbble"><i class="fab fa-dribbble"></i></a>
+                            
+                            </div>
+                            
+                            <!-- Card footer -->
+                            <div class="card-footer text-muted text-center">
+                                Martes, Jueves y Domingo de 15:00hs a 17:00hs
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+
+        </div>
+        
+
+
+
+        <div class="contain mt-5 bg-white rounded">
+            <h1 class="text-center">QUIENES SOMOS</h1>
+            <h4 class="ml-5">LA MADRIGUERA RADIO</h4>
+            <p class="ml-3 mr-3">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem obcaecati at quasi perferendis facere commodi doloribus officiis quae unde nesciunt, cupiditate veritatis quidem ipsum officia saepe pariatur ab, praesentium non. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil veritatis provident quod eius neque eveniet esse culpa, officiis, at totam tempora sed necessitatibus nulla, iure commodi rerum voluptate dicta iusto. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit voluptas molestias repellendus odit hic vitae rerum, ea sunt, nisi aut sint tempore quod consequuntur explicabo. Exercitationem magni ullam sit ad.</p>
+        </div>
+
+
+        <div class="contain mt-5 bg-white rounded">
+            <h1 class="text-center">REALIZAR RADIO!</h1>
+            <h4 class="ml-5"></h4>
+            <p class="ml-3 mr-3">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem obcaecati at quasi perferendis facere commodi doloribus officiis quae unde nesciunt, cupiditate veritatis quidem ipsum officia saepe pariatur ab, praesentium non. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil veritatis provident quod eius neque eveniet esse culpa, officiis, at totam tempora sed necessitatibus nulla, iure commodi rerum voluptate dicta iusto. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit voluptas molestias repellendus odit hic vitae rerum, ea sunt, nisi aut sint tempore quod consequuntur explicabo. Exercitationem magni ullam sit ad.</p>
+        
+        <div class="row">
+            <div class="col-4">
+                <div class="card ml-3 mt-5" style="width: 18rem;">
+                    <img src="./img/portada (3).jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">GRABACIONES</h5>
+                        <p class="card-text">Grabaciones de sonido en estudios altamente equipados. Multi microfono e instrumentos. Contamos con personal capacitado y dispuesto a realizar la grabacion a su conveniencia.</p>
+                        <a href="#" class="btn btn-success">Contactar</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card mt-5" style="width: 18rem;">
+                    <img src="./img/portada (5).jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">RADIO EN VIVO</h5>
+                        <p class="card-text">Planes semanales o diarios, con el mejor precio y la maxima disponibilidad horaria. Veni a conocer nuestro estudio y a nuestro equipo sin compromiso.</p>
+                        <a href="#" class="btn btn-success">Contactar</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card mt-5" style="width: 18rem;">
+                    <img src="./img/portada (4).jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">PODCAST</h5>
+                        <p class="card-text">Publicamos tu podcast, en vivo y on-demand. En spotify, itune, google podcast, entre otros. Podes grabar tu podcast en nuestro estudio, con un operador exclusivo, o podes enviarnos tu capitulo y nosotros lo publicamos.</p>
+                        <a href="#" class="btn btn-success">Contactar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+            
+
+            
+
+        </div>
+
+    </div>
+
+
+    <div class="relleno"></div>
+    <div class="relleno"></div>
+    <div class="relleno"></div>
+
+    
+    
+
+
+<style>
+
+.programas {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container{
+    background-color: lightslategray
+}
+
+.espacio {
+    height: 50px;
+}
+
+.relleno {
+    height: 500px;
+}
+
+#player_cel{
+    display: none;
+}
+
+@media screen and (max-width:1200px) {
+  #player_cel{
+      display: block;
+  }
+}
+    
+</style>
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/umd/util.js"></script>
+
+
+
+</body>
+</html>

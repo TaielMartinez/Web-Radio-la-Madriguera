@@ -1,0 +1,12 @@
+.div_player {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.progress{
+    height: 5px;
+}
+
+.progress_back{
+    background-color: #404040;
+}

@@ -1,0 +1,25 @@
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.flex-nowrap  { 
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+}
+
+.flex-between {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.flex_truncate_text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.flex_noBajar {
+}

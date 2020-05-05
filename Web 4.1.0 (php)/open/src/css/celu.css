@@ -1,0 +1,57 @@
+.celu-navbar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: black solid 2px;
+    z-index: 99;
+}
+
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.celu-scroll_horizontal > .row {
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.celu-scroll_horizontal > .row > .col-sm-4 {
+    display: inline-block;
+    float: none;
+}
+
+.celu-card {
+    background-color: rgba(0, 0, 0, 0);
+    width: 300px;
+}
+
+.celu-divImgTop{
+    width: 150px;
+}
+
+.celu-cardBody {
+    padding: 0.25rem;
+}
+
+.celu-cardVivo {
+    width: 90%;
+    margin-left: 3%;
+    border: #ff9757 solid 1px;
+    border-radius: 15%;
+}
+
+.celu-cardVivoImg {
+    width: 70%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 150px;
+}
